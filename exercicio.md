@@ -237,6 +237,6 @@ GROUP BY operation;
 
 ## 🏁 **Entrega**
 
-Salve o notebook `exercicio_final.ipynb` com todas as tarefas completas e documentadas. O exercício deve demonstrar domínio prático dos conceitos fundamentais do Apache Iceberg aplicados em um cenário empresarial realista.
+Enviar o PDF para 9840981@terceiros.mackenzie.br
 
 **Boa sorte! 🚀**
